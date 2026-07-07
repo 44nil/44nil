@@ -1,38 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:65A30D&height=220&section=header&text=Esra%20Nil&fontSize=60&fontColor=A3E635&animation=fadeIn&desc=Flutter%20%26%20Full-stack%20Developer&descAlignY=62&descSize=20&descColor=E5E7EB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:65A30D&height=180&section=header&text=Esra%20Nil&fontSize=48&fontColor=A3E635&desc=Flutter%20%26%20Full-stack%20Developer&descAlignY=62&descSize=18&descColor=E5E7EB" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=650&lines=Piksel+piksel+%C3%BCr%C3%BCn+in%C5%9Fa+ediyorum+%F0%9F%8E%A8;%C3%96%C4%9Frenerek+geli%C5%9Ftiriyorum+%F0%9F%9A%80;Flutter+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python" />
-</p>
+**Merhaba, ben Esra.** Flutter ve full-stack projeler geliştiriyorum — öğrenerek, elimi kirleterek inşa etmeyi seviyorum. Şu an **Pixel Art Club**'ı uçtan uca (Flutter + Node/Express/Postgres, kendi sunucumda) Play Store'a hazırlıyorum.
 
-<br/>
+### 🚀 En iyi projelerim
 
-### 🐍 Contribution snake
+| Proje | Açıklama |
+|---|---|
+| **Pixel Art Club** | Flutter + Node/Express/Postgres — piksel sanat uygulaması, Play Store'a hazırlanıyor *(private)* |
+| **[EduXpert](https://github.com/44nil/eduxpert_site)** | Next.js ile geliştirdiğim aktif online kurs platformu |
+| **[randevu_asista](https://github.com/44nil/randevu_asista)** | Next.js + Supabase randevu yönetim asistanı |
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/44nil/44nil/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/44nil/44nil/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/44nil/44nil/output/snake.svg" />
-</picture>
-</p>
+**Diğer projeler:** [retro-tape](https://github.com/44nil/retro-tape) (nostaljik kaset temalı mesaj servisi) · [ai-visibility-analyzer](https://github.com/44nil/ai-visibility-analyzer) (AEO aracı) · [transit-alarm](https://github.com/44nil/transit-alarm) · [atay](https://github.com/44nil/atay)
 
-### 🧊 3D contribution graph
+`Flutter` `Dart` `TypeScript` `Next.js` `Node.js` `Python` `PostgreSQL`
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/44nil/44nil/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
-</p>
+📫 [esranildogan@gmail.com](mailto:esranildogan@gmail.com)
 
 <br/>
 
-### 🛠️ Teknolojiler
+<details>
+<summary>📊 GitHub istatistikleri & rozetler</summary>
+<br/>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,nodejs,py,java,postgres,docker,git,github,html,css" />
 </p>
-
-<br/>
-
-### 📊 GitHub istatistikleri
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=44nil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -47,21 +39,16 @@
 <img src="https://github-profile-trophy.vercel.app/?username=44nil&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-<br/>
-
-### 🚀 Öne çıkan projeler
-
-| Proje | Açıklama |
-|---|---|
-| **Pixel Art Club** | Flutter + Node/Express/Postgres — piksel sanat uygulaması, Play Store'a hazırlanıyor *(private)* |
-| **[EduXpert](https://github.com/44nil/eduxpert_site)** | Next.js ile geliştirdiğim aktif online kurs platformu |
-| **[randevu_asista](https://github.com/44nil/randevu_asista)** | Next.js + Supabase randevu yönetim asistanı |
-| **[retro-tape](https://github.com/44nil/retro-tape)** | Nostaljik kaset temalı mesaj gönderme servisi |
-| **[ai-visibility-analyzer](https://github.com/44nil/ai-visibility-analyzer)** | Markaların AI platformlarındaki görünürlüğünü ölçen AEO aracı |
-
-<br/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/44nil/44nil/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/44nil/44nil/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/44nil/44nil/output/snake.svg" />
+</picture>
+</p>
 
 <p align="center">
-<a href="https://github.com/44nil/pixel_art_app">🎨 Pixel Art Club</a> ·
-<a href="mailto:esranildogan@gmail.com">✉️ İletişim</a>
+<img src="https://raw.githubusercontent.com/44nil/44nil/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
 </p>
+
+</details>
