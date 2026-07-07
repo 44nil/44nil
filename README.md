@@ -1,12 +1,30 @@
-<h1 align="center">Merhaba, ben Esra 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:65A30D&height=220&section=header&text=Esra%20Nil&fontSize=60&fontColor=A3E635&animation=fadeIn&desc=Flutter%20%26%20Full-stack%20Developer&descAlignY=62&descSize=20&descColor=E5E7EB" width="100%"/>
 
 <p align="center">
-Flutter & full-stack geliştirici — fikirden yayına kadar her aşamayı kendim kuruyorum.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=650&lines=Piksel+piksel+%C3%BCr%C3%BCn+in%C5%9Fa+ediyorum+%F0%9F%8E%A8;%C3%96%C4%9Frenerek+geli%C5%9Ftiriyorum+%F0%9F%9A%80;Flutter+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python" />
 </p>
 
 <br/>
 
-### 🛠️ Technical Skills
+### 🐍 Contribution snake
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/44nil/44nil/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/44nil/44nil/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/44nil/44nil/output/snake.svg" />
+</picture>
+</p>
+
+### 🧊 3D contribution graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/44nil/44nil/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+</p>
+
+<br/>
+
+### 🛠️ Teknolojiler
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nextjs,react,nodejs,py,java,postgres,docker,git,github,html,css" />
@@ -14,7 +32,7 @@ Flutter & full-stack geliştirici — fikirden yayına kadar her aşamayı kendi
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub istatistikleri
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=44nil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
